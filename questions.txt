@@ -1,0 +1,7 @@
+211|-1|13|11|1|It was nice to chat to you|For my pleasure, Mohamed
+212|-1|13|45|0|Please search archive before asking|Not Answered Yet
+301|-1|11|13|0|Free to meet?|Not Answered Yet
+302|-1|46|11|0|How're you?|Not Answered Yet
+305|-1|45|46|0|Are you dummy?! What are you asking in my profile??|I'm sorry, bruh!
+306|305|45|46|1|No need to apologize. how old are you?|I'm 19 years old. what about you?
+307|305|45|46|1|This is my privacy!! Please, don't ask these questions again!|Ok! I apologize for that.
