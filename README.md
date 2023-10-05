@@ -6,6 +6,7 @@
 - [System Design](#system-design)
 - [Features](#features)
 - [Usage](#usage)
+- [Project Demo](#project-demo)
 
 ## Introduction
 Ask.fm is a console-based question-and-answer system that allows users to ask questions and receive answers. This project operates as a file-based system, preserving the state of users, questions, and answers every time the application is run. Multiple users can use AskMe simultaneously, allowing for parallel interactions.
@@ -53,7 +54,10 @@ The Ask.fm project consists of a console-based interface where users can interac
 ### Sign Up
   - If you are a new user, you can create an account and start using Ask.fm.
 
-**__________________________________________________________________________________________**
+## Project Demo
+[Click Here To Watch My Project Demo](https://clipchamp.com/watch/S1Tf9r7kaJD)
+
+**____________________________________________________________________________________________________**
 
 ***Enjoy using Ask.fm to engage in meaningful discussions and answer questions from others!***
-**__________________________________________________________________________________________**
+**____________________________________________________________________________________________________**
