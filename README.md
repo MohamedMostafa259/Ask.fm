@@ -55,7 +55,7 @@ The Ask.fm project consists of a console-based interface where users can interac
   - If you are a new user, you can create an account and start using Ask.fm.
 
 ## Project Demo
-[Click Here To Watch My Project Demo](https://clipchamp.com/watch/S1Tf9r7kaJD)
+[Click Here To Watch My Project Demo](https://drive.google.com/file/d/1igRoOxVthGeiFq1XgqJrBLchj1B0L_74/view?usp=drive_link)
 
 **____________________________________________________________________________________________________**
 
