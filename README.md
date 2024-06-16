@@ -12,7 +12,7 @@
 Ask.fm is a console-based question-and-answer system that allows users to ask questions and receive answers. This project operates as a file-based system, preserving the state of users, questions, and answers every time the application is run. Multiple users can use AskMe simultaneously, allowing for parallel interactions.
 
 ## System Design
-![UML Class Diagram](https://imgur.com/0Dwm5vZ)
+![UML Class Diagram](https://github.com/MohamedMostafa259/Ask.fm/blob/main/AskFm_Diagram.png)
 
 ## Features
 ### User Authentication
